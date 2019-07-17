@@ -1,0 +1,11 @@
+C:\Cymax\Client\ClientRestApp\ClientRestApp\obj\Debug\netcoreapp2.0\ClientRestApp.csprojResolveAssemblyReference.cache
+C:\Cymax\Client\ClientRestApp\ClientRestApp\obj\Debug\netcoreapp2.0\ClientRestApp.csproj.CoreCompileInputs.cache
+C:\Cymax\Client\ClientRestApp\ClientRestApp\obj\Debug\netcoreapp2.0\ClientRestApp.AssemblyInfoInputs.cache
+C:\Cymax\Client\ClientRestApp\ClientRestApp\obj\Debug\netcoreapp2.0\ClientRestApp.AssemblyInfo.cs
+C:\Cymax\Client\ClientRestApp\ClientRestApp\bin\Debug\netcoreapp2.0\ClientRestApp.deps.json
+C:\Cymax\Client\ClientRestApp\ClientRestApp\bin\Debug\netcoreapp2.0\ClientRestApp.runtimeconfig.json
+C:\Cymax\Client\ClientRestApp\ClientRestApp\bin\Debug\netcoreapp2.0\ClientRestApp.runtimeconfig.dev.json
+C:\Cymax\Client\ClientRestApp\ClientRestApp\bin\Debug\netcoreapp2.0\ClientRestApp.dll
+C:\Cymax\Client\ClientRestApp\ClientRestApp\bin\Debug\netcoreapp2.0\ClientRestApp.pdb
+C:\Cymax\Client\ClientRestApp\ClientRestApp\obj\Debug\netcoreapp2.0\ClientRestApp.dll
+C:\Cymax\Client\ClientRestApp\ClientRestApp\obj\Debug\netcoreapp2.0\ClientRestApp.pdb

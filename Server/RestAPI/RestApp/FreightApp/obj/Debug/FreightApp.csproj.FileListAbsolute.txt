@@ -1,0 +1,3 @@
+C:\Cymax\RestAPI\RestApp\FreightApp\obj\Debug\FreightApp.csprojResolveAssemblyReference.cache
+C:\Cymax\RestAPI\RestApp\FreightApp\obj\Debug\FreightApp.csproj.CoreCompileInputs.cache
+C:\Cymax\RestAPI\RestApp\FreightApp\obj\Debug\FreightApp.csproj.FreightApp.exe.config
